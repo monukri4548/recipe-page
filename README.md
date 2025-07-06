@@ -1,6 +1,6 @@
 # 🌮 Taco Recipe Selector App
 
-This is a simple Node.js web application that allows users to view detailed recipes for various tacos — Chicken, Beef, and Fish. Built with **Express.js**, **EJS**, and **vanilla JavaScript**, it displays recipes dynamically based on user input.
+This is a simple Node.js web application that allows users to view detailed recipes for various tacos. Built with **Express.js**, **EJS**, and **vanilla JavaScript**, it displays recipes dynamically based on user input.
 
 ---
 
